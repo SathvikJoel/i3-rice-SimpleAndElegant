@@ -1,3 +1,4 @@
+![4terminals](https://user-images.githubusercontent.com/56961369/122666213-aada5880-d1c9-11eb-980c-4eaef52243d6.png)
 # i3-rice-SimpleAndElegant
 
 A Simple but elegant looking rice for those who want to practice some yoga and do some real work.
